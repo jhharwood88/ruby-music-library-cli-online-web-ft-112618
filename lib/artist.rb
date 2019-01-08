@@ -36,6 +36,6 @@ class Artist
   end
   
   def genres
-  self.genre.songs
+  self.genre
   end
 end 
